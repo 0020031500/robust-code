@@ -1,5 +1,3 @@
-using System.Net.NetworkInformation;
-
 static int getNumber()
 {
     int toReturn;
